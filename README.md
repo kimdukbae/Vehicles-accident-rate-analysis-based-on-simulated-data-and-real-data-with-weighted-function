@@ -1,2 +1,2 @@
 # Vehicles-accident-rate-analysis-based-on-simulated-data-and-real-data-with-weighted-function
-It is a project with Korea Highway Corporation with the students of Data Youth Campus hosted by the Korea Data Industry Promotion Agency in July 2020.
+ + 2020 데이터 청년 캠퍼스의 (2020.07.06 ~ 2020.08.07) 교육 수강 후 한국도로공사와 진행한 프로젝트(2020.08.10 ~ 2020.09.04) 입니다.
