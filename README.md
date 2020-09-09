@@ -8,15 +8,18 @@
  ## Introduction
  + Traffic accidents are increasing and private car ownership is increasing.
  + In the big data era, we try to correlate and correlate accident factors with traffic accident rate through data analysis.
+ 
  <br>
  
  ![1](https://user-images.githubusercontent.com/50494545/92585714-4a2ffe00-f2d0-11ea-9c94-bb783a2539bb.PNG)
 
 <br>
+<br>
 
 ## Process
 ![2](https://user-images.githubusercontent.com/50494545/92585826-6c298080-f2d0-11ea-921d-1999a03a88fc.PNG)
 
+<br>
 <br>
 
 ## EDA (Only a few of the many variables)
